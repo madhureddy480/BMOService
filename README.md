@@ -20,3 +20,8 @@ Local workspace setup:
 * Application has H2 database embedded with Employee table and few records
 * To test: try http://localhost:8080/api/employees/31
 * change default port in application.properties if required.
+  
+### Tech Stack
+* Springboot 3.5
+* Spring WebFlux
+* JUnit 5
